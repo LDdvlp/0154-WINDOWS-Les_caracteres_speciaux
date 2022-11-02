@@ -49,4 +49,4 @@
 
 * *[Guillemet](https://fr.wikipedia.org/wiki/Guillemet)*
 
-* *[LES ACCENTS (Windows)](https://carleton.ca/french/wp-content/uploads/les_accents_000.pdf)*# 0154-WINDOWS-Les_caracteres_speciaux
+* *[LES ACCENTS (Windows)](https://carleton.ca/french/wp-content/uploads/les_accents_000.pdf)*
