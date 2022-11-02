@@ -6,15 +6,15 @@
 |#|Caractère|Désignation|Combinaison|Code|Notes|
 |:---:|:---:|:---|:---:|:---:|:---:|
 |01|**À**|a, accent grave, majuscule|ALT + |***183***|*v.1*|
-|01|**À**|a, accent grave, majuscule|ALT + |***0192***|*v.2*|
-|02|**É**|e, accent aigu, majuscule|ALT + |***144***|*v.1*|
-|03|**É**|e, accent aigu, majuscule|ALT + |***0201***|*v.2*|
-|04|**Ê**|e, accent circonflexe, majuscule|ALT + |***0202***|*v.2*|
-|05|**Ç**|ç, cédille, majuscule|ALT + |***128***|-|
-|06|**œ**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o, minuscule|ALT + |***0156***|-|
-|07|**Œ**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o, majuscule|ALT + |***0140***|-|
-|08|**Ø**|o, barré, majuscule|ALT + |***157***|Pour symboliser le diamètre par exemple : Ø200|
-|09|**ø**|o, barré, minuscule|ALT + |***155***|-|
+|02|**À**|a, accent grave, majuscule|ALT + |***0192***|*v.2*|
+|03|**É**|e, accent aigu, majuscule|ALT + |***144***|*v.1*|
+|04|**É**|e, accent aigu, majuscule|ALT + |***0201***|*v.2*|
+|05|**Ê**|e, accent circonflexe, majuscule|ALT + |***0202***|*v.2*|
+|06|**Ç**|ç, cédille, majuscule|ALT + |***128***|-|
+|07|**œ**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o, minuscule|ALT + |***0156***|-|
+|08|**Œ**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o, majuscule|ALT + |***0140***|-|
+|09|**Ø**|o, barré, majuscule|ALT + |***157***|Pour symboliser le diamètre par exemple : Ø200|
+|10|**ø**|o, barré, minuscule|ALT + |***155***|-|
 
 ## 2. Caractères inhabituels
 
