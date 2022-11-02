@@ -9,7 +9,7 @@
 |02|**À**|a, accent grave, majuscule|ALT + |***0192***|*v.2*|
 |03|**É**|e, accent aigu, majuscule|ALT + |***144***|*v.1*|
 |04|**É**|e, accent aigu, majuscule|ALT + |***0201***|*v.2*|
-|05|**Ê**|e, accent circonflexe, majuscule|ALT + |***0202***|*v.2*|
+|05|**Ê**|e, accent circonflexe, majuscule|ALT + |***0202***|-|
 |06|**Ç**|ç, cédille, majuscule|ALT + |***128***|-|
 |07|**œ**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o, minuscule|ALT + |***0156***|-|
 |08|**Œ**|o-e entrelacé, o e-dans-le-o, o e-dans-l’o, e-dans-l’o, majuscule|ALT + |***0140***|-|
